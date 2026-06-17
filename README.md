@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=🚀+Full+Stack+Developer+%7C+MERN+Specialist;⚙️+Systems+Engineer+%7C+C%2B%2B+%7C+Concurrency+%26+Sync;🏅+LeetCode+Knight+%7C+700%2B+Problems+Solved;🎯+FAANG+Aspirant+%40+IIIT+Bhagalpur;☕+I+turn+coffee+into+code+%26+ship+it+to+prod" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=Full+Stack+Developer+%7C+MERN+Specialist;Systems+Engineer+%7C+C%2B%2B+%7C+Concurrency;LeetCode+Knight+%7C+700%2B+Problems+Solved;FAANG+Aspirant+%40+IIIT+Bhagalpur;I+turn+coffee+into+code+and+ship+it" alt="Typing SVG" />
 
 </div>
 
@@ -126,42 +126,6 @@ const hero = {
   <img src="https://img.shields.io/badge/DBMS-2196F3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer_Networks-607D8B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOP-00BCD4?style=for-the-badge" />
-</div>
-
----
-
-## 🏗️ Featured Projects
-
-<div align="center">
-
-### 🤖 AI Resume Analyser &nbsp;·&nbsp; `Feb 2026`
-**`MERN`** **`Groq LLaMA-3.3-70b`** **`Firebase OAuth`** **`Cloudinary`** **`Vercel / Render`**
-
-> Architected a scalable multi-stage LLM inference pipeline for deterministic resume scoring & skill-gap analysis.  
-> Fault-tolerant REST APIs · Multer file processing · Role-based admin dashboard · **50+ live submissions**
-
-[📂 GitHub](YOUR_REPO_URL) &nbsp;·&nbsp; [🌐 Live Demo](YOUR_LIVE_URL)
-
----
-
-### 🎟️ Eventora — Event Booking Platform &nbsp;·&nbsp; `May 2026`
-**`React`** **`Node.js`** **`MongoDB`** **`Razorpay`** **`JWT`** **`Nodemailer`**
-
-> Production event booking system with layered OTP verification, JWT role-enforced middleware,  
-> and HMAC-SHA256 Razorpay payment validation with order-ID deduplication to eliminate replay attacks.
-
-[📂 GitHub](YOUR_REPO_URL) &nbsp;·&nbsp; [🌐 Live Demo](YOUR_LIVE_URL)
-
----
-
-### 📦 High-Performance File Compressor &nbsp;·&nbsp; `Dec 2025`
-**`C++`** **`STL`** **`Huffman Coding`** **`Min-Heap`**
-
-> Lossless compression engine achieving **40% compression ratio** via entropy-optimal encoding.  
-> O(n log n) complexity · Manual heap deallocation · **Zero memory leaks** across adversarial edge-case inputs.
-
-[📂 GitHub](YOUR_REPO_URL)
-
 </div>
 
 ---
